@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assessment1</string>
+    <string name="jarak_intro">Diketahui 1 ft atau kaki adalah 0,3 meter atau 30 sentimenter (cm). Jika dalam ukuran inci, 1 kaki sama dengan 12 inci, sementara 1 inci sama dengan2,5 sentimeter (cm).</string>
+    <string name="jarak_invalid">Jarak tidak boleh kosong.</string>
+    <string name="selected_invalid">Mohon diisi</string>
+</resources>
