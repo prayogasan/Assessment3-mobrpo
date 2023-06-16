@@ -15,6 +15,9 @@
         <action
             android:id="@+id/action_hitungFragment_to_historiFragment"
             app:destination="@id/historiFragment" />
+        <action
+            android:id="@+id/action_hitungFragment_to_aboutApiFragment"
+            app:destination="@id/aboutApiFragment" />
     </fragment>
     <fragment
         android:id="@+id/aboutFragment"
@@ -24,4 +27,8 @@
         android:id="@+id/historiFragment"
         android:name="com.d3if3060.assessment1.ui.histori.HistoriFragment"
         android:label="HistoriFragment" />
+    <fragment
+        android:id="@+id/aboutApiFragment"
+        android:name="com.d3if3060.assessment1.api.AboutApiFragment"
+        android:label="AboutApiFragment" />
 </navigation>

@@ -11,4 +11,9 @@
         android:id="@+id/menu_about"
         android:title="@string/tentang_aplikasi"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_about_api"
+        android:title="@string/tentang_api"
+        app:showAsAction="never" />
 </menu>

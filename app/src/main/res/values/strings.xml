@@ -5,6 +5,7 @@
     <string name="selected_invalid">Mohon diisi</string>
     <string name="nilai_invalid">Mohon diisi</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="tentang_api">Tentang API</string>
     <string name="copyright">Metfeet merupakan sebuah aplikasi Android untuk mengkonversi jarak dari meter ke feet dan feet ke meter sehigga seseorang dapat mengetahui perbedaan jarak antara meter dan feet.
     \n\Aplikasi ini dibuat untuk Assessment 2 Mobpro.
     \n\Prayoga San Arisakti \n\4505 RPLA</string>

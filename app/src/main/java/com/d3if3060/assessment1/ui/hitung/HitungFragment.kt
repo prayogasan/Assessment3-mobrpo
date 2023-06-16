@@ -84,6 +84,12 @@ class HitungFragment : Fragment() {
                 )
                 return true
             }
+            R.id.menu_about_api -> {
+                findNavController().navigate(
+                    R.id.action_hitungFragment_to_aboutApiFragment
+                )
+                return true
+            }
         }
         return super.onOptionsItemSelected(item)
     }
